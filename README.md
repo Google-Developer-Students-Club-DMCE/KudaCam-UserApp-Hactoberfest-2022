@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 98b5b7a (base commit)
 # KudaCam-UserApp-Hactoberfest-2022
 
 
@@ -122,4 +126,26 @@ In case a worker is busy resolving a complaint and receives another complaint, t
 -	https://developer.android.com/
 -	https://stackoverflow.com/
 -	https://www.tutorialspoint.com/index.htm
+<<<<<<< HEAD
 -	https://medium.com/ 
+=======
+-	https://medium.com/ 
+=======
+# clean_me
+
+User Application
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 9bca10d (base commit)
+>>>>>>> 98b5b7a (base commit)
